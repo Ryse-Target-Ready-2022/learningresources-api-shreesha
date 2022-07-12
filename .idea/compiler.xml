@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="learningresources-api-shreesha.learningresources-api-shreesha.main" target="11" />
+      <module name="learningresources-api-shreesha.learningresources-api-shreesha.main~1" target="11" />
+      <module name="learningresources-api-shreesha.learningresources-api-shreesha.test" target="11" />
+      <module name="learningresources-api-shreesha.learningresources-api-shreesha.test~1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
